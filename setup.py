@@ -63,7 +63,7 @@ setup(
             "pytest==6.1.2 ; python_version<'3.7'",
             "pytest==7.2.0 ; python_version>='3.7'",
             "pytest-cov==2.12.1 ; python_version<'3.7'",
-            "pytest-cov==4.0.0 ; python_version>='3.7'",
+            "pytest-cov==5.0.0 ; python_version>='3.7'",
             "pytest-mypy-plugins==1.9.3 ; python_version>='3.6' and python_version<'3.7'",
             "pytest-mypy-plugins==1.10.1 ; python_version>='3.7'",
             # Testing utils.
